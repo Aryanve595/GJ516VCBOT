@@ -232,8 +232,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
+                    InlineKeyboardButton("📨 Support", url=f"https://t.me/+p2A5gHTe9_YzNDk1"),
+                    InlineKeyboardButton("📨 owner ", url=f"https://t.me/Heartlessaryan_op")
                 ],
                 [
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
