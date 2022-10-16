@@ -1,111 +1,52 @@
+<h2 align="centre">𝄞🆂🆃🅰🆁🌟🅼🆄🆂🅸🅲🎸</h2>
+Advanced music bot of Telegram 
 
- <h2 align="center">   
-    ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
-   </h2>  
- <p align="center">   
-<img src="https://te.legra.ph/file/203a1b9364a28133b13c1.jpg">   
- </p> ━━━━━━━━━━━━━━━━━━━━ 
- <p align="center"> 
- <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
- <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
- </p> 
- ━━━━━━━━━━━━━━━━━━━━
- <details> 
- <summary> 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 📝</summary> 
+<p align="center"><a href="https://t.me/attitude_galaxy"><img src="https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg" width="300"></a></p>
 
- - FFmpeg 
- - NodeJS [nodesource.com](https://nodesource.com/) 
- - Python 3.7 or higher 
- - [PyTgCalls](https://github.com/pytgcalls/pytgcalls) 
- </details> 
- <details> 
- <summary> 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 🔮</summary> 
+</p>
 
- - Yt-dL Fix 
- - Updated Plug-in 
- - Super Fast Bot 
- - No Lag Hang 
- - Fast Download Song From Server 
- - Program Updated 
- - Smooth Player 
- </details> 
- <details> 
- <summary> 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 🛠</summary>
-  
- - `/play <song name>` - play song you requested 
- - `/song <song name>` - download songs you want quickly 
- - `/ping` - Bot Online or Offine 
+## .🅡🅔🅟🅞 🅢🅣🅐🅣🅢.
 
-  #### Admins Only 👷‍♂️ 
+</p>
 
-- `/pause` - pause song play 
- - `/resume` - resume song play 
- - `/skip` - play next song 
- - `/end` - stop music play 
- </details> 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Aryanve595&repo=Starmusic&theme=dark)
 
-<details>
-<summary>𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🥀</summary>
+</p>
 
-- 🧪 Get `SESSION_NAME` variable: 
-  - [``Pyrogram Session``](https://telegram.me/StringFatherBot)
- </details>
- 
- <details>
-<summary> 
-𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗺𝗲𝘁𝗵𝗼𝗱𝘀 🚀
-</summary> 
+## .ᴜᴩᴅᴀᴛᴇꜱ🔊
+
+[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-attitude_galaxy-red?style=for-the-badge&logo=telegram)](https://t.me/attitude_galaxy)</br></br>
+
+</p>
+
+## .ꜱᴜᴩᴩᴏʀᴛ🔧
+
+[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-Crazy_worlds-red?style=for-the-badge&logo=telegram)](https://t.me/+p2A5gHTe9_YzNDk1)</br></br>
+
+</p>
+
+## # 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
+
+- [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/Heartlessaryan_op) Owner
 
 
- ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀 
 
- <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Aryanve595/GJ516VCBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
+</p>
 
- The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable). 
+## .ᴅᴇᴠᴇʟᴏᴩᴇʀ.😎
 
- ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 
+[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Alone_Shaurya_king)
 
- <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MrProgrammer72/GJ516VCBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
+</p>
 
- The second easiest way to host this bot, Deploy on Okteto Cloud 
- ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
-   ```sh 
- sudo apt update && apt upgrade -y 
- sudo apt install git curl python3-pip ffmpeg -y 
- pip3 install -U pip 
- Curl -sL https://deb.nodesource.com/setup_16.x | bash - 
- sudo apt-get install -y nodejs 
- npm i -g npm 
- git clone https://github.com/MrProgrammer72/GJ516VCBOT # Clone your repo. 
- cd GJ516VCBOT
- pip3 install -U -r requirements.txt 
- cp example.env .env #Use vim to edit ENVs 
- vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.) 
- python3 main.py # Run the bot 
+## .ʀᴇᴩʟ.
 
- ``` 
+[![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@attitudekinguse/Starmusicstring#main.py)
 
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
+</p>
 
- </p> 
+## .ᴅᴇᴩʟᴏy.
 
- </details>
-━━━━━━━━━━━━━━━━━━━━ 
+[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aryanve595/GJ516VCBOT)
 
-   <h3 align="center"> 
-     ─「 sᴜᴩᴩᴏʀᴛ 」─ 
- </h3> 
-
-  <p align="center"> 
- <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
- </p> 
- <p align="center"> 
- <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
- </p> 
-━━━━━━━━━━━━━━━━━━━━
-    <h3 align="center"> 
-   ─「 ᴄʀᴇᴅɪᴛs 」─ 
- </h3> 
-
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b> 
-━━━━━━━━━━━━━━━━━━━━
+</p>
