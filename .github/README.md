@@ -35,7 +35,7 @@ Advanced music bot of Telegram
 
 ## .ᴅᴇᴠᴇʟᴏᴩᴇʀ.😎
 
-[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Alone_Shaurya_king)
+[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/toxic_aadi28)
 
 </p>
 
