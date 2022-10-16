@@ -8,43 +8,43 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 @Client.on_message(command("start") & filters.private & ~filters.group & ~filters.edited)
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAx0CZp7eIAACYn9jQ4fSHUbGxAMFJz_-kaRcOuoRWAACDgcAAruXGFbarx8_grqJYh4E")
-    await message.reply_photo(
-        photo=f"{START_IMG}",
+
+     await message.reply_photo(
+        photo=f"https://telegra.ph/file/e4ccacd74d5545c16ac85.jpg",
         caption=f""" ** Hey {message.from_user.mention()} , 🥀\n\n
 ๏ This is [{bn}](t.me/{bu}) ,  !
-➻ The most Powerful telegram music  bot with some awesome and useful features.
+➻  most advance and superfast telegram music  bot with some awesome features.
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🖤 by : [𝗝𝝙𝗬🥀](https://t.me/{me}) ** """,
+➻ Made 🖤 by : [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/Heartlessaryan_op) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
-                [
+                
+                   
+                       
+                      
+,[
+                  
+                       
+                    
                     InlineKeyboardButton(
-                        "✚ Add me to your Group", url=f"https://t.me/{bu}?startgroup=true"
-                       ),
-                 ],[
-                    InlineKeyboardButton(
-                        "📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}"
-                    ),
-                    InlineKeyboardButton(
-                        "📨 Support ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "📨 Support ", url=f"https://t.me/+p2A5gHTe9_YzNDk1"
                     )
                   ],[
                     InlineKeyboardButton(
-                        "👤 Bot Owner ", url=f"https://t.me/{me}"
+                        "👤 Bot Owner ", url=f"(https://t.me/Toxic_aadi28)"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/export_gabbar"
+                        "👨‍💻 Developer ", url=f"(https://t.me/Heartlessaryan_op)"
                     ),
-                  ],[
-                    InlineKeyboardButton(
-                        "✅ Inline ", switch_inline_query_current_chat=""
-                    ),
-                    InlineKeyboardButton(
-                        "💡 Git repo", url="https://github.com/MrProgrammer72/GJ516VCBOT"
-                    )]
+                 
+                    
+                       
+                    
+                    
+                       
+                    ]
             ]
        ),
     )
