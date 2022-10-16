@@ -18,34 +18,21 @@ async def start_(client: Client, message: Message):
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
 ➻ Made 🖤 by : [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/Heartlessaryan_op) ** """,
-    reply_markup=InlineKeyboardMarkup(
+   reply_markup=InlineKeyboardMarkup(
             [
-                
-                   
-                       
-                      
-,[
-                  
-                       
-                    
+                [
                     InlineKeyboardButton(
                         "📨 Support ", url=f"https://t.me/+p2A5gHTe9_YzNDk1"
+                    ),
+                    InlineKeyboardButton(
+                        "📨 owner ", url=f"https://t.me/Toxic_aadi28"
+                    ),
+                ],
+                [
+                    InlineKeyboardButton(
+                        "💡Developer ", url="https://t.me/Heartlessaryan_op"
                     )
-                  ],[
-                    InlineKeyboardButton(
-                        "👤 Bot Owner ", url=f"(https://t.me/Toxic_aadi28)"
-                    ),
-                    InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"(https://t.me/Heartlessaryan_op)"
-                    ),
-                 
-                    
-                       
-                    
-                    
-                       
-                    ]
+                ]
             ]
-       ),
+        ),
     )
-
